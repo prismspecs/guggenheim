@@ -1,0 +1,108 @@
+
+    (function () {
+        var s = document.createElement('script');
+        var p = "var i = document.createElement('img');\
+		i.setAttribute('alt', '');\
+		i.setAttribute('src', 'https://ad.doubleclick.net/ddm/activity/src=9624253;type=track0;cat=gugge0;qty=1;cost=0;u1=;u14=;u15=New%2BYork;u16=;u17=US;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;ord=orderID');\
+    i.setAttribute('height', '1');\
+    i.setAttribute('width', '1');\
+    i.setAttribute('style', 'display: none;');\
+    document.body.appendChild(i);\
+";
+
+        s.type = 'text/javascript';
+        s.async = true;
+        if (s.textContent) {
+            s.textContent = p;
+        } else {
+            s.text = p;
+        }
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    (function () {var t=document.createElement("img");t.async=!0,t.width=1,t.height=1,t.style.display="none",t.src="https://secure.adnxs.com/px?id=1169889&t=1";document.body.appendChild(t)})();
+(function () {var t=document.createElement("img");t.async=!0,t.width=1,t.height=1,t.style.display="none",t.src="https://secure.adnxs.com/seg?add=19448568&t=1";document.body.appendChild(t)})();
+
+    (function () {
+        var s = document.createElement('script');
+        var p = "var i = document.createElement('img');\
+    i.setAttribute('alt', '');\
+    i.setAttribute('height', '1');\
+    i.setAttribute('width', '1');\
+    i.setAttribute('style', 'display: none;');\
+    i.setAttribute('src', 'https://cm.g.doubleclick.net/pixel?google_cm=true&google_hm=tqWHD27TDROm5xI-_deNig&google_nid=sojern__adx_open_bidder_seat&google_sc=true&sjrn_id=3G18S1673sKlJPXH9zemDIDtH0XX8McnLeVIF3TOrqoTBWDqK0ttGCs8xR8fo6xl&sjrn_ula=854542677');\
+    document.body.appendChild(i);\
+";
+
+        s.type = 'text/javascript';
+        s.async = true;
+        if (s.textContent) {
+            s.textContent = p;
+        } else {
+            s.text = p;
+        }
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    
+    (function () {
+        var s = document.createElement('script');
+        var p = "var i = document.createElement('img');\
+    i.setAttribute('alt', '');\
+    i.setAttribute('height', '1');\
+    i.setAttribute('width', '1');\
+    i.setAttribute('style', 'display: none;');\
+    i.setAttribute('src', 'https://cm.g.doubleclick.net/pixel?google_cm=true&google_hm=tqWHD27TDROm5xI-_deNig&google_nid=sojern_adh');\
+    document.body.appendChild(i);\
+";
+
+        s.type = 'text/javascript';
+        s.async = true;
+        if (s.textContent) {
+            s.textContent = p;
+        } else {
+            s.text = p;
+        }
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    
+    (function () {
+        var s = document.createElement('script');
+        var p = "var i = document.createElement('img');\
+    i.setAttribute('alt', '');\
+    i.setAttribute('height', '1');\
+    i.setAttribute('width', '1');\
+    i.setAttribute('style', 'display: none;');\
+    i.setAttribute('src', 'https://ib.adnxs.com/getuid?https://pixel.sojern.com/idsync/apn?id=$UID&sjrn_id=3G18S1673sKlJPXH9zemDIDtH0XX8McnLeVIF3TOrqoTBWDqK0ttGCs8xR8fo6xl');\
+    document.body.appendChild(i);\
+";
+
+        s.type = 'text/javascript';
+        s.async = true;
+        if (s.textContent) {
+            s.textContent = p;
+        } else {
+            s.text = p;
+        }
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    
+    (function () {
+        var s = document.createElement('script');
+        var p = "var i = document.createElement('img');\
+    i.setAttribute('alt', '');\
+    i.setAttribute('height', '1');\
+    i.setAttribute('width', '1');\
+    i.setAttribute('style', 'display: none;');\
+    i.setAttribute('src', 'https://match.adsrvr.org/track/cmf/generic?ttd_pid=ombl9hp&ttd_puid=3G18S1673sKlJPXH9zemDIDtH0XX8McnLeVIF3TOrqoTBWDqK0ttGCs8xR8fo6xl&ttd_tpi=1');\
+    document.body.appendChild(i);\
+";
+
+        s.type = 'text/javascript';
+        s.async = true;
+        if (s.textContent) {
+            s.textContent = p;
+        } else {
+            s.text = p;
+        }
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    
